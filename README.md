@@ -48,3 +48,5 @@ Accuracy: 100%
 
 ## 👩‍💻 Author
 Dhanya
+## 🏢 Internship
+This project was completed as part of the Oasis Infobyte Data Science Internship Program.
