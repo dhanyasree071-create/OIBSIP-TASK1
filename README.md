@@ -1,7 +1,7 @@
 # Iris-Flower-Classification
-Data Science project for Iris Flower Classification using Python, Scikit-learn, and Machine Learning techniques..
+Data Science project for Iris Flower Classification using Python, Scikit-learn
 
-This is a Machine Learning project that classifies iris flowers into different species using the K-Nearest Neighbors (KNN) algorithm.
+This is a Data science project that classifies iris flowers into different species using the K-Nearest Neighbors (KNN) algorithm.
 
 
 The Iris dataset contains flower measurements such as:
